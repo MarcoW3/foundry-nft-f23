@@ -12,3 +12,13 @@ docs/
 
 # Dotenv file
 .env
+lib/
+broadcast/
+.gitmodules
+../.gitmodules
+node_modules/
+package-lock.json
+package.json
+../.prettierrc
+../coverage.txt
+../.vscode/settings.json
